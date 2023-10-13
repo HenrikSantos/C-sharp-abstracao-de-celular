@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs
+*.exe
+*.dll
+*.pdb
+*.suo
+*.cache
+*.log
+*.user
+*.vscode
+*.DS_Store
+Thumbs.db
+packages/
+*.nupkg=
